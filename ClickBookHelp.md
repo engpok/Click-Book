@@ -1,129 +1,174 @@
 <h1 align="center"> Click Book — Help<br>Version 1.0</h1>
 
-Click Book is scrap booking app. Create books of chapters of photos/videos/notes with location and date info.
+Click Book helps you capture real-world experiences using photos, videos, notes, time, and location — all stored privately on your device.
 
 ---
 
-## Overview
+## 🧭 Overview
 
-Click Book lets you:
+Click Book organizes your content into:
 
-- Create books of photos/videos/notes with location and date info.  
-- Take photos and videos, or import from Photos app  
-- Export books to PDF or Word format (Word format requires in-app-purchase)  
-- Enable iCloud backup in System Settings to automatically backup books   
-
----
-
-<img width="992" height="493" alt="image" src="https://github.com/user-attachments/assets/a304e7a4-8270-456f-8ec6-baf049c8f402" />
+- **Books** → A collection of related content (e.g., a trip, project, or theme)
+- **Chapters** → Individual entries within a book
+- **Media** → Photos and videos attached to chapters
 
 ---
 
-## Getting Started
+## 📚 Books
 
-### 1. Create a Wall
+- A **Book** is your top-level container
+- Examples:
+  - “Five Days in Prague”
+  - “Four Seasons of My Garden”
+  - “The Grandkids”
 
-Click **Add Wall** and choose one of the following:
-
-#### Simulated Wall
-- Enter wall width and height  
-- No photo required  
-- Corners are automatically defined  
-
-#### Photo Wall
-- Import a photo of your wall  
-- Drag the corner handles to match the wall edges  
-- Enter real-world wall dimensions  
+**Behavior**
+- Books are sorted by when they began
+- You can create, select, and delete books
+- Deleting a book permanently removes all chapters and media
 
 ---
 
-### 2. Add Pictures
+## 📝 Chapters
 
-Click **Add Picture** and:
+Each chapter can include:
 
-- Enter width and height  
-- Set the hanging hook position (distance from top of frame)
-- Pictures are stored in the "Store Room" at the bottom of the window
+- Description text
+- Date and time
+- Location (automatic or manual)
+- Photos and/or videos (taken in app, or imported from Photos app)
+- Captions for each media item
 
----
-
-### 3. Place Pictures on the Wall
-
-- Right-click a picture  
-- Select **Place on Wall**
-
-The picture will appear centered on the wall.
-
-You can:
-- Drag to reposition  
-- Right-click to remove from wall
+**Behavior**
+- Chapters are displayed newest first
+- Editing a chapter’s date/time may change its position in the list
 
 ---
 
-## Designing Your Layout
+## 🚀 Getting Started
 
-### Move & Arrange
-- Drag pictures to position them  
-- Use the grid to guide placement  
+<img width="1011" height="508" alt="image" src="https://github.com/user-attachments/assets/8990a2e6-afc5-4015-931d-984c606eca1f" />
 
-### Grouping
-- Add pictures to a group  
-- Move them together as a unit  
-- Use alignment tools on the group  
-
-### Alignment Tools
-- Align grouped pictures:
-  - Left / Center / Right  
-  - Top / Middle / Bottom
--  Drag wall grid for visual alignment tool
-
-### Locking
-- Lock a picture to prevent accidental movement  
-- Locked pictures can still be part of a group  
-
-### Duplicate Walls
-- Duplicate a wall to try alternate layouts  
-- Option to include or exclude existing picture placements  
+1. Create or select a Book
+2. Tap **Add Chapter**
+3. Enter a description
+4. Adjust date/time if needed
+5. Take and/or import photos or videos
+6. Tap **Save**
 
 ---
 
-## Installation Report
+## ✏️ Editing
 
-Generate a report to help you hang your layout:
-
-**File → Installation Report…**
-
-The report includes:
-- Wall overview with picture positions  
-- Frame dimensions  
-- Hanging hook offsets  
-- Exact placement measurements:
-  - Distance from left edge  
-  - Distance from right edge  
-  - Height from bottom of wall  
+- Tap any chapter to edit it
+- Add more media, change text, or update time/location
+- Changes are saved when you tap **Save**
 
 ---
 
-## Saving & Loading
-<img width="1059" height="374" alt="image" src="https://github.com/user-attachments/assets/30f90194-bca1-4bc1-b79e-03cf9e8bd04a" />
+## 📸 Photos & Videos
 
-Projects are saved in folders that are given a filename ending of ".wmproj". Project folders store all walls, and the Store Room of all of the pictures. 
+### Capture
+- Use the in-app camera to take photos or videos
+- Media is stored privately inside the app
 
-The Store Room of pictures can be exported and imported to allow sharing with other designers. The diagram below shows the different modes of Import:
+### Import
+- Import photos or videos from your Photos library
 
-<img width="1032" height="521" alt="image" src="https://github.com/user-attachments/assets/3d3d7d40-fea4-4905-a851-8d14a320fa54" />
+### Export to Photos
+- Media captured in the app can be copied to the Photos app
+- Imported media is copied into Click Book and stored independently
+
+---
+
+## 📍 Location
+
+- Chapters can automatically use your current location
+- You can override with a custom place name
+- Imported photos and videos may not include location data if the original file does not contain GPS information (as set in System Settings > Privacy & Security > Location Services > Camera > Allow Location Access). You can always set or edit the location manually within a chapter
 
 ---
 
-## Privacy
+## 🗑 Deleting
 
-Wall Mosaic:
-- Does not require an account  
-- Does not collect personal data  
-- Stores all project data locally on your device  
-- Only accesses photos when you choose to import images  
+- Deleting a chapter or book is **permanent**
+- You will always be asked to confirm before deletion
 
 ---
+
+## 📤 Export
+
+You can export a book from the Books screen.
+
+<img width="786" height="567" alt="image" src="https://github.com/user-attachments/assets/4695d876-8644-408a-b06a-83145ff1748f" />
+
+### PDF Export (Free)
+- Includes text and images
+- Suitable for sharing or printing
+
+### Word Export (.docx) (In-App Purchase)
+- Includes images embedded in the document
+- Videos are included in a `/Videos` folder
+- Each video appears as:
+  - A file path
+  - A clickable link (when supported)
+
+### ⚠️ Word Video Links (MacOS)
+
+To open video links in Microsoft Word on Mac:
+
+1. Open **System Settings**
+2. Go to **Privacy & Security**
+3. Select **Full Disk Access**
+4. Add **Microsoft Word**
+
+---
+
+## ☁️ Backup
+
+Your data is automatically backed up by Apple when iCloud Backup is enabled.
+
+To enable:
+- Go to **Settings → Apple ID → iCloud → iCloud Backup**
+
+Click Book does not require any additional backup setup.
+
+---
+
+## 🧩 Diagrams
+
+*(Optional — add your diagrams below)*
+
+### App Structure
+![App Structure](images/app-structure.png)
+
+### Chapter Flow
+![Chapter Flow](images/chapter-flow.png)
+
+### Media Handling
+![Media Flow](images/media-flow.png)
+
+---
+
+## ❓ Tips
+
+- Use chapters for **days**, **themes**, or **topics**
+- Add captions to remember context later
+- Export regularly if you want a shareable version
+
+---
+
+## 📬 Feedback
+
+If you have suggestions or run into issues, feel free to open an issue on this repository.
+
+---
+
+## 🔒 Privacy
+
+- All data is stored locally on your device
+- No account required
+- No data is collected or transmitted by Click Book
 
 ## Support
 
