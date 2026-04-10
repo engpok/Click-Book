@@ -94,6 +94,7 @@ Each chapter can include:
 ---
 
 ## 🗑 Deleting
+<img width="444" height="501" alt="image" src="https://github.com/user-attachments/assets/5c1bde49-8e10-4783-af1f-ade7205ba0a5" />
 
 - Deleting a chapter or book is **permanent**
 - You will always be asked to confirm before deletion
@@ -145,13 +146,15 @@ Click Book does not require any additional backup setup.
 Yes, that is what the Export PDF/Word feature is meant for.
 
 **Can I change the format of a Book?**
-Yes, if you export to Word format you can use all of the features of Word to add text and photos, and change the  fonts of text. Maybe your friends have related books that you'd like to merge with your book. That's all possible in Word.
+Yes, if you export a book to Word format you can use all of the features of Word to add text and photos, and change the  fonts of text. Move photos around and stretch/shrink them. Maybe your friends have related books that you'd like to merge with your book. That's all possible in Word.
 
 ---
 
 ## 🔒 Privacy
 
-- Can I share a book with others?
+- All data is stored locally on your device
+- No account required
+- No data is collected or transmitted by Click Book
 
 ## Support
 
