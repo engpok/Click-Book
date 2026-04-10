@@ -53,7 +53,7 @@ Each chapter can include:
 2. Tap **Add Chapter**
 3. Enter a description
 4. Adjust date/time if needed
-5. Take and/or import photos or videos
+5. Take and/or import photos and videos
 6. Tap **Save**
 
 ---
@@ -89,7 +89,7 @@ Each chapter can include:
 
 - Chapters can automatically use your current location
 - You can override with a custom place name
-- Imported photos and videos may not include location data if the original file does not contain GPS information (as set in System Settings > Privacy & Security > Location Services > Camera > Allow Location Access). You can always set or edit the location manually within a chapter
+- Imported photos and videos may not include location data if the original file does not contain GPS information (as set in Settings > Privacy & Security > Location Services > Camera > Allow Location Access). You can always set or edit the location manually within a chapter
 
 ---
 
@@ -147,6 +147,12 @@ Yes, that is what the Export PDF/Word feature is meant for.
 
 **Can I change the format of a Book?**
 Yes, if you export a book to Word format you can use all of the features of Word to add text and photos, and change the  fonts of text. Move photos around and stretch/shrink them. Maybe your friends have related books that you'd like to merge with your book. That's all possible in Word.
+
+**I imported a photo and the location is not showing up?**
+Yup, this is a common issue. Phones don't automatically get & store the photo location info. But, the good news is that you can change this for photos from this point on: Go to Settings > Privacy & Security > Location Services > Camera > Allow Location Access. That will allow ios to store the location with the photo. Then Click Book will know where the photo was taken.
+
+**Why is the app asking for access to the microphone?**
+In order to record videos, ios requires the microphone to also be enabled (presumably to add audio with the video). If you don't enable the microphone the app won't take videos, but you can import videos from the Photos Library.
 
 ---
 
