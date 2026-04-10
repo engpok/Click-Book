@@ -79,6 +79,10 @@ Each chapter can include:
 - Media captured in the app can be copied to the Photos app
 - Imported media is copied into Click Book and stored independently
 
+### Full-View of photos & video
+<img width="803" height="528" alt="image" src="https://github.com/user-attachments/assets/96987711-e39c-4e8a-b973-cb2c99e0e50c" />
+
+
 ---
 
 ## 📍 Location
@@ -135,22 +139,8 @@ Click Book does not require any additional backup setup.
 
 ---
 
-## 🧩 Diagrams
 
-*(Optional — add your diagrams below)*
-
-### App Structure
-![App Structure](images/app-structure.png)
-
-### Chapter Flow
-![Chapter Flow](images/chapter-flow.png)
-
-### Media Handling
-![Media Flow](images/media-flow.png)
-
----
-
-## ❓ Tips
+## ❓ Frequently Asked Questions
 
 - Use chapters for **days**, **themes**, or **topics**
 - Add captions to remember context later
@@ -158,17 +148,9 @@ Click Book does not require any additional backup setup.
 
 ---
 
-## 📬 Feedback
-
-If you have suggestions or run into issues, feel free to open an issue on this repository.
-
----
-
 ## 🔒 Privacy
 
-- All data is stored locally on your device
-- No account required
-- No data is collected or transmitted by Click Book
+- Can I share a book with others?
 
 ## Support
 
