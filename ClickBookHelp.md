@@ -139,12 +139,13 @@ Click Book does not require any additional backup setup.
 
 ---
 
-
 ## ❓ Frequently Asked Questions
 
-- Use chapters for **days**, **themes**, or **topics**
-- Add captions to remember context later
-- Export regularly if you want a shareable version
+**Can I share a book with others?**
+Yes, that is what the Export PDF/Word feature is meant for.
+
+**Can I change the format of a Book?**
+Yes, if you export to Word format you can use all of the features of Word to add text and photos, and change the  fonts of text. Maybe your friends have related books that you'd like to merge with your book. That's all possible in Word.
 
 ---
 
