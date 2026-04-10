@@ -80,7 +80,7 @@ Each chapter can include:
 - Imported media is copied into Click Book and stored independently
 
 ### Full-View of photos & video
-<img width="803" height="528" alt="image" src="https://github.com/user-attachments/assets/96987711-e39c-4e8a-b973-cb2c99e0e50c" />
+<img width="803" height="250" alt="image" src="https://github.com/user-attachments/assets/96987711-e39c-4e8a-b973-cb2c99e0e50c" />
 
 
 ---
@@ -94,7 +94,7 @@ Each chapter can include:
 ---
 
 ## 🗑 Deleting
-<img width="444" height="501" alt="image" src="https://github.com/user-attachments/assets/5c1bde49-8e10-4783-af1f-ade7205ba0a5" />
+<img width="444" height="450" alt="image" src="https://github.com/user-attachments/assets/5c1bde49-8e10-4783-af1f-ade7205ba0a5" />
 
 - Deleting a chapter or book is **permanent**
 - You will always be asked to confirm before deletion
@@ -105,7 +105,7 @@ Each chapter can include:
 
 You can export a book from the Books screen.
 
-<img width="786" height="567" alt="image" src="https://github.com/user-attachments/assets/4695d876-8644-408a-b06a-83145ff1748f" />
+<img width="786" height="300" alt="image" src="https://github.com/user-attachments/assets/4695d876-8644-408a-b06a-83145ff1748f" />
 
 ### PDF Export (Free)
 - Includes text and images
