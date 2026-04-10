@@ -6,6 +6,8 @@ Click Book helps you capture real-world experiences using photos, videos, notes,
 
 ## 🧭 Overview
 
+<img width="1011" height="508" alt="image" src="https://github.com/user-attachments/assets/8990a2e6-afc5-4015-931d-984c606eca1f" />
+
 Click Book organizes your content into:
 
 - **Books** → A collection of related content (e.g., a trip, project, or theme)
@@ -46,8 +48,6 @@ Each chapter can include:
 ---
 
 ## 🚀 Getting Started
-
-<img width="1011" height="508" alt="image" src="https://github.com/user-attachments/assets/8990a2e6-afc5-4015-931d-984c606eca1f" />
 
 1. Create or select a Book
 2. Tap **Add Chapter**
