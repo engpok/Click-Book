@@ -26,7 +26,7 @@ Click Stories organizes your content into:
 
 **Behavior**
 - Books are sorted by when they began
-- You can create, select, and delete books
+- You can create, select, rename, delete, export to Word/PDF format, backup and restore books
 - Deleting a book permanently removes all chapters and media
 
 ---
@@ -42,7 +42,7 @@ Each chapter can include:
 - Captions for each media item
 
 **Behavior**
-- Chapters are displayed newest first
+- Chapters are displayed newest on top of the list
 - Editing a chapter’s date/time may change its position in the list
 
 ---
@@ -89,7 +89,7 @@ Each chapter can include:
 
 - Chapters can automatically use your current location
 - You can override with a custom place name
-- Imported photos and videos may not include location data if the original file does not contain GPS information (as set in Settings > Privacy & Security > Location Services > Camera > Allow Location Access). You can always set or edit the location manually within a chapter
+- Imported photos and videos may not include location data if the original file does not contain GPS information (as set in ios Settings > Privacy & Security > Location Services > Camera > Allow Location Access). You can always set or edit the location manually within a chapter
 
 ---
 
@@ -101,7 +101,7 @@ Each chapter can include:
 
 ---
 
-## 📤 Export
+## 📤 Export to Word/PDF format
 
 You can export a book from the Books screen.
 
@@ -122,7 +122,7 @@ You can export a book from the Books screen.
 
 To open video links in Microsoft Word on Mac:
 
-1. Open **System Settings**
+1. Open MacOS **System Settings**
 2. Go to **Privacy & Security**
 3. Select **Full Disk Access**
 4. Add **Microsoft Word**
@@ -131,10 +131,10 @@ To open video links in Microsoft Word on Mac:
 
 ## ☁️ Backup
 
-Your data is automatically backed up by Apple when iCloud Backup is enabled.
+Your data is automatically backed up by Apple ios when iCloud Backup is enabled.
 
 To enable:
-- Go to **Settings → Apple ID → iCloud → iCloud Backup**
+- Go to ios **Settings → Apple ID → iCloud → iCloud Backup**
 
 ---
 
@@ -147,7 +147,7 @@ Over time the app may accumulate a lot of books, with lots of data. Books that a
 
 The **Restore** function can be used to bring the book back into the app:
 - transfer the zipped archive from the computer to the phone (it will appear in Files)
-- perform the **Restore** function and select the zip file in Files
+- tap the **Restore** button and select the zip file in Files
 - A new book will be created so you can check it for accuracy (even if the orginal book is still in the app)
 
 ---
