@@ -74,10 +74,10 @@ Each chapter can include:
 
 ### Import
 - Import photos or videos from your Photos library
+- Imported media is copied into the app and stored independently
 
 ### Export to Photos
 - Media captured in the app can be copied to the Photos app
-- Imported media is copied into Click Book and stored independently
 
 ### Full-View of photos & video
 <img width="803" height="250" alt="image" src="https://github.com/user-attachments/assets/96987711-e39c-4e8a-b973-cb2c99e0e50c" />
@@ -89,7 +89,7 @@ Each chapter can include:
 
 - Chapters can automatically use your current location
 - You can override with a custom place name
-- Imported photos and videos may not include location data if the original file does not contain GPS information (as set in ios Settings > Privacy & Security > Location Services > Camera > Allow Location Access). You can always set or edit the location manually within a chapter
+- Imported photos and videos may not include location data if the original file does not contain GPS information (as enabled in ios Settings > Privacy & Security > Location Services > Camera > Allow Location Access). You can always set or edit the location manually within a chapter
 
 ---
 
@@ -110,6 +110,7 @@ You can export a book from the Books screen.
 ### PDF Export (Free)
 - Includes text and images
 - Suitable for sharing or printing
+- Videos are included in a `/Videos` folder
 
 ### Word Export (.docx) (In-App Purchase)
 - Includes images embedded in the document
@@ -140,24 +141,24 @@ To enable:
 
 ## ☁️ Archiving books to free up space
 
-Over time the app may accumulate a lot of books, with lots of data. Books that are complete can be offloaded by:
+Over time the app may accumulate a lot of books, with lots of data. Books can be offloaded by:
 - performing a **backup**
-- transferring the backup to a computer (airdrop)
+- transferring the backup to a computer (airdrop). The backup file is in zip format
 - deleting the book in the app.
 
 The **Restore** function can be used to bring the book back into the app:
-- transfer the zipped archive from the computer to the phone (it will appear in Files)
+- transfer the zipped backup from the computer to the phone (it will appear in Files)
 - tap the **Restore** button and select the zip file in Files
-- A new book will be created so you can check it for accuracy (even if the orginal book is still in the app)
+- A new book will be created (even if the orginal book is still in the app - this allows you to check it before deleting the earlier book)
 
 ---
 
 ## ☁️ New in this Version
 
 Many changes were made:
-- a new tab for **"Books"**. This is where you select a book, add a book, delete it, rename it, export to Word/PDF, back it up, and restore it.
+- a new tab for **"Books"**. This is where you all book actions are: select, create(new), delete, rename, export to Word/PDF, backup, and restore.
 - Backup/restore feature added. This allows you to not only back up your books, but also offload then from the phone to free up space. Restore creates a new book; it doesn't replace the book on the phone.
-- Help now brings up this help page (which is easier for me to update with corrections and FAQs.
+- Help now brings up this help page (which is easier for me to update with corrections and FAQs).
 
 ---
 
@@ -173,9 +174,7 @@ Yes, if you export a book to Word format you can use all of the features of Word
 Yup, this is a common issue with ios. Phones don't automatically get & store the photo location info. But, the good news is that you can change this for photos from this point on: Go to iphone Settings > Privacy & Security > Location Services > Camera > Allow Location Access. That will allow ios to store the location with the photo. Then Click Stories will know where the photo was taken.
 
 **Can I copy a photo from the app to the Photos app?**
-Yup, this is a commonly used feature to share a photo to others. Within a chapter you'll see a button to "Copy to Photos". It's as simple as that. Well, hold on; not quite:
-- what if the photo already exists in the Photos app? Then, a new copy of the photo will be created.
-- How do I know if the photo is already in the Photos app? Within a chapter, note that each photo has a two line description showing location and "Internal Photo" (the photo was taken from inside the app) or "Imported Photo". If it says "Imported Photo", then it's possible the photo is still in the Photos app... but if you're like me, once I import it into the app, I delete it from the Photos app... then I can't share the photo. So,  this is case where you'd want to "Copy to Photos" so you can share the photo with someone else. That "Imported Photo" desription only means that the photo WAS IMPORTED... it doesn't mean the photo is in the Photos app.
+Yup, this is commonly used to share photos with others. With each photo/video in a chapter you'll see a button to "Copy to Photos". What if the photo already exists in the Photos app? Then, a new copy of the photo will be created. Can I tell if the photo was imported from the Photos app? Yes: Within a chapter, note that each photo has a two line description showing location and "Internal Photo" (the photo was taken from inside the app) or "Imported Photo". If it says "Imported Photo", then it's possible the photo is still in the Photos app, unless it was deleted after importing into the app.
 
 **Why is the app asking for access to the microphone?**
 In order to record videos, ios requires the microphone to also be enabled (presumably to add audio with the video). If you don't enable the microphone the app won't take videos, but you can import videos from the Photos Library.
