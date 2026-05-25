@@ -157,7 +157,7 @@ The **Restore** function can be used to bring the book back into the app:
 
 Many changes were made:
 - a new tab for **"Books"**. This is where you all book actions are: select, create(new), delete, rename, export to Word/PDF, backup, and restore.
-- Backup/restore feature added. This allows you to not only back up your books, but also offload then from the phone to free up space. Restore creates a new book; it doesn't replace the book on the phone.
+- Backup/restore feature added. This allows you to not only back up your books, but also offload them from the phone to free up space. Restore creates a new book... it doesn't replace the book on the phone.
 - Help now brings up this help page (which is easier for me to update with corrections and FAQs).
 
 ---
